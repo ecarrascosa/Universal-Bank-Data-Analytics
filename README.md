@@ -2,11 +2,11 @@
 
 ## Project Background
 
-### As part of customer acquisition efforts, Universal Bank wants to run a campaign to convince more of their current customers to accept personal loan offers. In order to improve targeting quality, they want to find customers that are most likely to accept the personal loan offer
+As part of customer acquisition efforts, Universal Bank wants to run a campaign to convince more of their current customers to accept personal loan offers. In order to improve targeting quality, they want to find customers that are most likely to accept the personal loan offer
 
 ## The Data
 
-## The data is from a previous campaign on 5000 customers, 480 of them accepted
+### The data is from a previous campaign on 5000 customers, 480 of them accepted
 
 ! [Data] (\Users\mtj5jyz\Documents\universalbank.png)
 
@@ -29,7 +29,7 @@
 
 ## Formulation
 
--  Partition the data:
+- Partition the data:
   - 50% training; 25% validation; 25% test
 
 - Dependent variable:

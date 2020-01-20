@@ -1,8 +1,17 @@
 # Universal-Bank-Data-Analytics
 
+## Project Background
 
-1. id:	Customer ID
-2. age:	Customer's age in completed years
+### As part of customer acquisition efforts, Universal Bank wants to run a campaign to convince more of their current customers to accept personal loan offers. In order to improve targeting quality, they want to find customers that are most likely to accept the personal loan offer
+
+## The Data
+
+## They use data from a previous campaign on 5000 customers, 480 of them accepted
+
+
+
+* id:	Customer ID
+* age:	Customer's age in completed years
 3. experience:	# years of professional experience
 4. income:	Annual income of the customer ($000)
 5. zip:	Home Address ZIP code.

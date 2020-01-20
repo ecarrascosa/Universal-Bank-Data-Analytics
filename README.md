@@ -8,7 +8,7 @@
 
 ## They use data from a previous campaign on 5000 customers, 480 of them accepted
 
-![Data] (\Users\mtj5jyz\Documents\universalbank.png)
+! [Data] (\Users\mtj5jyz\Documents\universalbank.png)
 
 
 

@@ -1,8 +1,8 @@
 # Universal-Bank-Data-Analytics
 
 
--id:	Customer ID
--age:	Customer's age in completed years
+1. Id:	Customer ID
+2. Age:	Customer's age in completed years
 -experience:	# years of professional experience
 -income:	Annual income of the customer ($000)
 -zip:	Home Address ZIP code.

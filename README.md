@@ -6,7 +6,7 @@
 
 ## The Data
 
-## They use data from a previous campaign on 5000 customers, 480 of them accepted
+## The data is from a previous campaign on 5000 customers, 480 of them accepted
 
 ! [Data] (\Users\mtj5jyz\Documents\universalbank.png)
 
@@ -26,3 +26,14 @@
 *  cd_account:	Does the customer have a certificate of deposit (CD) account with the bank?
 * online:	Does the customer use internet banking facilities?
 * credit_card:	Does the customer use a credit card issued by UniversalBank?
+
+## Formulation
+
+-  Partition the data:
+  - 50% training; 25% validation; 25% test
+
+- Dependent variable:
+  - personal_loan
+
+- Method
+  - kNN
